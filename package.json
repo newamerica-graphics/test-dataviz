@@ -1,5 +1,5 @@
 {
-  "name": "data_viz_project_template",
+  "name": "test-dataviz",
   "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
@@ -13,6 +13,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "sass": "^1.83.4",
     "webpack-dev-server": "^4.11.1"
   },
   "devDependencies": {
@@ -27,7 +28,6 @@
     "css-loader": "^6.7.3",
     "cssnano": "^5.1.14",
     "html-webpack-plugin": "^5.5.0",
-    "node-sass": "^8.0.0",
     "postcss": "^8.4.21",
     "postcss-loader": "^7.0.2",
     "sass-loader": "^13.2.0",
